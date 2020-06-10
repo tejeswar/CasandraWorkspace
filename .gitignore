@@ -1,0 +1,22 @@
+ 
+.DS_Store
+.metadata
+ 
+**/.DS_Store
+**/.metadata/*
+
+**/.idea
+**/.settings/*
+ 
+#individual project level
+**/target
+**/bin
+**/*.jar
+**/*.war
+**/*.zip
+**/node_modules
+**/.mvn
+ 
+**/maven
+**/m2
+
